@@ -1,0 +1,7 @@
+C:\Users\tmace\Documents\csis2530\classLabs\LabFile\LabFile\bin\Debug\LabFile.exe.config
+C:\Users\tmace\Documents\csis2530\classLabs\LabFile\LabFile\bin\Debug\Poem.txt
+C:\Users\tmace\Documents\csis2530\classLabs\LabFile\LabFile\bin\Debug\LabFile.exe
+C:\Users\tmace\Documents\csis2530\classLabs\LabFile\LabFile\bin\Debug\LabFile.pdb
+C:\Users\tmace\Documents\csis2530\classLabs\LabFile\LabFile\obj\Debug\LabFile.csprojResolveAssemblyReference.cache
+C:\Users\tmace\Documents\csis2530\classLabs\LabFile\LabFile\obj\Debug\LabFile.exe
+C:\Users\tmace\Documents\csis2530\classLabs\LabFile\LabFile\obj\Debug\LabFile.pdb
